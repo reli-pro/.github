@@ -4,4 +4,4 @@ It primarily creates and distributes games and, software.
 Distribution is mainly done [here](https://sora81dev.booth.pm)  
 
 All products are subject to the following licence.  
-© 2024 sora81dev / © 2024 RELI Project  
+© 2025 sora81dev / © 2025 RELI Project  
